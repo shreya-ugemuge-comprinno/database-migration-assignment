@@ -200,7 +200,7 @@ The optimized execution plan eliminated disk-based temporary operations and redu
 
 ---
 
-## 2. Credit Card Sales Ledger Optimization (MySQL)
+## 2. Credit Card Sales Ledger Optimization
 
 ### Problem Before Optimization
 
